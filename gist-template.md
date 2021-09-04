@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# How to Validate an Email address Tutorial
 
-Introductory paragraph (replace this with your text)
+An individual that possesses an on-line account know the importance of having their email address validated for access to accounts that may contain sensitive information.  Thus, this is an important expression that a developer is required to build into the application, in order to protect their user personal contact information and financial information. As well as to ensure that communication with their users are being accessed by the appropriate individual.  
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+The regular expression that we will be evaluating in this tutorial is Email validation (/^([a-z0-9_\.- ]+)@([ \da-z\.-]+)\.([a-z\.]{2,6})$/ ).
 
 ## Table of Contents
 
