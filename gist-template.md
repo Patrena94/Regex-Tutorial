@@ -1,6 +1,6 @@
 # How to Validate an Email address Tutorial
 
-An individual that possesses an on-line account know the importance of having their email address validated for access to accounts that may contain sensitive information.  Thus, this is an important expression that a developer is required to build into the application, in order to protect their user personal contact information and financial information. As well as to ensure that communication with their users are being accessed by the appropriate individual.  
+An individual that possesses an on-line account know the importance of having their email address validated for access to accounts that may contain sensitive information. Thus, this is an important expression that a developer is required to build into the application, in order to protect their user personal contact information and financial information. As well as to ensure that communication with their users are being accessed by the appropriate individual. This tutorial has been developed to explain the complexity of validating an email and to create a better understanding regular expression establishes search patterns.
 
 ## Summary
 
