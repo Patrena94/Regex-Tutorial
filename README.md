@@ -34,7 +34,7 @@ The regular expression that we will be evaluating in this tutorial is Email vali
 
  # Questions  
 
- 
+ User with questions about this project should contact me at patrena@sbcglobal.net.  You may also review my portfolio at Patrena Github repository(https://github.com/Patrena94). 
  
 
  
