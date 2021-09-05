@@ -1,4 +1,4 @@
-# Regex Tutorial Starter Code
+# How to Validate an Email Address Tutorial
 
 # License
    
