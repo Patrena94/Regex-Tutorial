@@ -2,7 +2,7 @@
 
 # License
    
-![Build Status](https://img.shields.io/github/license/Patrena94/stack-underflow)  
+![Build Status](https://img.shields.io/github/license/Patrena94/Regex-Tutorial)  
 
 
  # Description
